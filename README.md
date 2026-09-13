@@ -23,4 +23,13 @@ This design enables effective feature learning with reduced computational overhe
 ## Status
 
 - ✅ Core model implementation available  
-- ⏳ Paper under submission (details to be added after publication)  
+
+
+## Citation
+
+If you use SwiftMSeg in your research, please cite:
+
+```text
+Rony, J. H., Hossain, M. S., & Siddiqui, F. H. (2026). SwiftMSeg: lightweight multi-scale local–global context modeling with transformer for medical image segmentation. Scientific Reports, 16(1), 25934.
+```
+
